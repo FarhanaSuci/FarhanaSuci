@@ -18,6 +18,20 @@ Currently working as a **Data Analyst Intern at Techscooper** and exploring **AI
 - 📌 Always learning & growing!
 
 ---
+  ## 💻 Skills & Technologies
+
+| Category | Skills / Technologies |
+|----------|---------------------|
+| **Languages** | Python, JavaScript, C++, Java, SQL, HTML, CSS |
+| **Frontend** | React.js, Next.js, HTML5, CSS3, Bootstrap, Tailwind CSS |
+| **Backend** | Node.js, Flask, Express.js, REST APIs, Django (basic) |
+| **AI/ML & Data Science** | Machine Learning, Deep Learning, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Matplotlib, Seaborn, NLP, Image Processing, Explainable AI (XAI) |
+| **Mobile** | React Native, Android Studio, Kotlin (basic) |
+| **Tools & Workflow** | Git, GitHub, VS Code, Docker, Postman, Jupyter Notebook, Google Colab, Linux, Power BI, Kaggle |
+| **Design** | Figma, Adobe XD, Photoshop, Illustrator, Premiere Pro |
+
+
+---
 ## 📚 Education
 
 | TIMELINE | DEGREE | DEPARTMENT / GROUP | INSTITUTION | LOCATION |
@@ -38,6 +52,23 @@ Currently working as a **Data Analyst Intern at Techscooper** and exploring **AI
 | *Identifying Influential Biomarkers of Colorectal Cancer Using Bioinformatics and Machine Learning Approaches with Explainable AI* | Abstract published in the *Book of Abstracts* for the **3rd International Poster Competition for Young Researchers 2025** | October 2025 | [View Abstract (Page 77)](https://drive.google.com/file/d/1pLE_1_bHjY9xkMnNVdcADgn-BoksEjPE/view?usp=sharing#page=77) |
 
 
+
+---
+
+## 🛠️ Personal Projects
+
+| Repository | Description | Link |
+|------------|-------------|------|
+| **CareerLink and TutorConnect (Abstract Only)** | An AI-powered job recruitment and professional networking platform with smart matching, career development, and secure verification. Additionally, a one-to-one topic-specific learning platform connecting students with expert tutors for personalized education. | [View Repo](#) |
+| **Students Introductory Website Template** | Template for making the introductory website of a batch of a university department. | [View Repo](#) |
+| **Traffic Signs Classification Using Convolutional Neural Networks** | Deep learning project using CNNs to classify traffic signs from images. | [View Repo](#) |
+| **Quran Files Python Scrapper** | A personal Python-based script to scrap files from a website. Educational purposes only. | [View Repo](#) |
+| **My Portfolio** | The source code of my portfolio website can be found here. | [View Repo](#) |
+| **e-Desk (Web)** | e-Desk is a smart complaint management system. | [View Repo](#) |
+| **CoinBank Wallet** | An Android application project for managing daily income and expenses. | [View Repo](#) |
+| **Quillium** | University-based social media platform. | [View Repo](#) |
+| **Power Distributors of Bangladesh** | An API for power distribution companies in Bangladesh, including BPDB, DESCO, DPDC, NESCO, WZPDCL, BREB. | [View Repo](#) |
+| **HTML-for-Beginners** | Basic HTML tags and examples for beginners. | [View Repo](#) |
 ---
 
 
@@ -65,15 +96,28 @@ Currently working as a **Data Analyst Intern at Techscooper** and exploring **AI
 | 💡 **Simple C and C++ Program** | Basic C and C++ programming examples for beginners. | [View Repo](https://github.com/FarhanaSuci/Simple-C-and-Cpp-Program) |
 
 
----
 
+---
 
 
 ### 💼 Experiences
 
 | Timeline | Position | Company | Location |
 |-----------|-----------|----------|-----------|
-| 2024 - Present | **Data Engineer Intern** | Techscooper | Kolkata, India (Remote) |
+| 2024 - Present | **Data Analyst Remote Intern** | Techscooper | Kolkata, India (Remote) |
+
+
+---
+## 🏅 Data Science & Research Certificates
+
+| Certificate / Program | Issuer / Platform | Link |
+|----------------------|-----------------|------|
+| Data Solution 360 Program | DataSolution360 | [Certificate of Completion](#) / [Intern Promotion](#) |
+| Data Science Certificate Program | Ostad | [Certificate of Assessment](#) / [Certificate of Completion](#) |
+| Data Science and Machine Learning Program | NACTAR | [Certificate of Completion](#) |
+| Machine Learning & Deep Learning Projects | Self / Online Projects | [View Projects](#) |
+| DataXcelerate: Embarking on A Journey through the Universe of Data | YSSE | [Certificate](#) |
+| Research Program on ML, DL, Image Processing & NLP | Self / Research | [Certificate of Completion](#) |
 
 
 ---
