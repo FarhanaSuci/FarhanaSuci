@@ -4,7 +4,7 @@
 Python | SQL | Machine Learning & Bio-informatics Researcher |  Power BI | AI in Biology  **
 
 Driven by curiosity and a passion for data-driven solutions, I combine analytical thinking and creativity to solve real-world challenges in **data science**, **machine learning**, and **business intelligence**.  
-Currently working as a **Data Analyst Intern at Techscooper** and exploring **AI/ML techniques for colon cancer gene expression analysis** as part of my thesis research.
+Currently working as a **Data Analyst Intern at Techscooper** .
 
 ---
 
@@ -17,18 +17,7 @@ Currently working as a **Data Analyst Intern at Techscooper** and exploring **AI
 - 🎯 Passionate about **Data Science & AI applications **
 - 📌 Always learning & growing!
 
----
-  ## 💻 Skills & Technologies
 
-| Category | Skills / Technologies |
-|----------|---------------------|
-| **Languages** | Python, JavaScript, C++, Java, SQL, HTML, CSS |
-| **Frontend** | React.js, Next.js, HTML5, CSS3, Bootstrap, Tailwind CSS |
-| **Backend** | Node.js, Flask, Express.js, REST APIs, Django (basic) |
-| **AI/ML & Data Science** | Machine Learning, Deep Learning, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Matplotlib, Seaborn, NLP, Image Processing, Explainable AI (XAI) |
-| **Mobile** | React Native, Android Studio, Kotlin (basic) |
-| **Tools & Workflow** | Git, GitHub, VS Code, Docker, Postman, Jupyter Notebook, Google Colab, Linux, Power BI, Kaggle |
-| **Design** | Figma, Adobe XD, Photoshop, Illustrator, Premiere Pro |
 
 
 ---
@@ -55,14 +44,15 @@ Currently working as a **Data Analyst Intern at Techscooper** and exploring **AI
 
 ---
 
-## 🛠️ Personal Projects
+## 🛠️ Academic Projects
 
 | Repository | Description | Link |
 |------------|-------------|------|
-| **CareerLink and TutorConnect (Abstract Only)** | An AI-powered job recruitment and professional networking platform with smart matching, career development, and secure verification. Additionally, a one-to-one topic-specific learning platform connecting students with expert tutors for personalized education. | [View Repo](#) |
-| **Students Introductory Website Template** | Template for making the introductory website of a batch of a university department. | [View Repo](#) |
-| **Traffic Signs Classification Using Convolutional Neural Networks** | Deep learning project using CNNs to classify traffic signs from images. | [View Repo](#) |
-| **Quran Files Python Scrapper** | A personal Python-based script to scrap files from a website. Educational purposes only. | [View Repo](#) |
+| **Breast Cancer InsightX: AI-Powered Diagnostic 
+Analysis** | A machine learning-based breast cancer diagnostic framework for early and accurate tumor classification using non-invasive FNA features. It leverages ensemble classifiers  with hyperparameter tuning, optimized feature selection, and dimensionality reduction techniques, combined with SHAP-based interpretability for reliable and explainable clinical decision support. | [View Repo](https://github.com/FarhanaSuci/BreastCancerProject) |
+| **Smart Water Quality Monitoring System** | Designed an Arduino-based system to monitor water quality parameters (pH, TDS, temperature, EC) and display results on an LCD, with LED indicators showing water quality status (green for good, red for poor). | [View Repo](https://github.com/FarhanaSuci/SmartWaterQualityMonitoringSystem) |
+| **My Reminder** | “My Reminder  App” is a multifunctional Android app with modules for task reminders, to-do lists, notepad, stopwatch, expense tracking, and location-based reminders(travelling speed,distance). | [View Repo](https://github.com/FarhanaSuci/AndroidApp-MyReminder) |
+| **Under Water Image Enhancement ** | Underwater Image Enhancement Web App – Developed a Streamlit-based web application to enhance underwater images using classical image processing techniques such as red-blue channel compensation, Gray World white balancing, histogram equalization, unsharp masking, and PCA-based fusion to restore color balance and improve visibility. | [View Repo](#) |
 | **My Portfolio** | The source code of my portfolio website can be found here. | [View Repo](#) |
 | **e-Desk (Web)** | e-Desk is a smart complaint management system. | [View Repo](#) |
 | **CoinBank Wallet** | An Android application project for managing daily income and expenses. | [View Repo](#) |
