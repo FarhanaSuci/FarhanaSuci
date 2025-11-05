@@ -10,10 +10,10 @@ Driven by curiosity and a passion for data-driven solutions, I combine analytica
 ###  About Me
 - 💡 Experienced in **Python, SQL, Power BI, Streamlit, Machine Learning and Deep Learning**
 - 📊 BI Tools: **Power BI, Excel, Tableau**
-- 🧬 Research Area: **Colon Cancer Gene Expression & Diagnostic Biomarkers**
+- 🧬 Research Area: **ML, Feature Selection, Colon Cancer Gene Expression & Diagnostic Biomarkers**
 - 🛠 Proficient in Tools : **VS Code,PyCharm, Google Colab, MySQL, PostgreSQL, MS SQL, XAMPP, Microsoft Fabrics, Git, GitHub**
 - 🎓 Master's student in Computer Science and Engineering at Jagannath University, Dhaka
-- 🎯 Passionate about **Data Science & AI applications **
+- 🎯 Passionate about **Data Science & AI applications**
 - 📌 Always learning & growing!
 
 
