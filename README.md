@@ -109,13 +109,13 @@ Currently working as a **Data Analyst Intern at Techscooper** .
 | Data Science Certificate Program | Ostad | [Certificate of Assessment](https://drive.google.com/file/d/1UG0nQIvRNj5Kz5PEJx7C2dnwi9plyqaN/view?usp=sharing) / [Certificate of Completion](https://drive.google.com/file/d/1lSew7RUNuvm9LCjVG999Bzq9g86CZmGw/view?usp=sharing) |
 | Data Science and Machine Learning Program | NACTAR | [Certificate of Completion](https://drive.google.com/file/d/1PkTojDH8urxm9anEvvxy3sq18mDzCxda/view?usp=sharing) |
 | DataXcelerate: Embarking on A Journey through the Universe of Data | YSSE | [Certificate](https://drive.google.com/file/d/1gycwqS4nyI6jbXONRU49tkMyjdWlvmNZ/view?usp=sharing) |
-| Research Program on ML, DL, Image Processing & NLP | Self / Research | [Certificate of Completion](https://drive.google.com/file/d/1Nw8sqdRtYQVi78NGNPWO2oOwHDNlUui2/view?usp=sharing) |
+| Research Program on ML, DL, Image Processing & NLP | Neural Research | [Certificate of Completion](https://drive.google.com/file/d/1Nw8sqdRtYQVi78NGNPWO2oOwHDNlUui2/view?usp=sharing) |
 
 
 ---
 
 ## 🤝 Connect with Me
-<a href="https://www.linkedin.com/in/farhana-aktersuci/" target="_blank">
+<a href="www.linkedin.com/in/farhana-akter-suci-44844925b" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Farhana%20Akter%20Suci-blue?style=flat&logo=linkedin" alt="LinkedIn Badge"/>
 </a>
 
