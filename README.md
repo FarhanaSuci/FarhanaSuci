@@ -3,8 +3,7 @@
 ### 👋 Hello, I'm Farhana Akter Suci  
 Python | SQL | Machine Learning  | Bio-informatics in Research | Power BI | AI in Bio-informatics | Deep Learning
 
-Driven by curiosity and a passion for data-driven solutions, I combine analytical thinking and creativity to solve real-world challenges in **data science**, **machine learning**, and **data analytics**.  
-Currently working as a **Data Analyst Intern at Techscooper** .
+Driven by curiosity and a passion for data-driven solutions, I combine analytical thinking and creativity to solve real-world challenges in **data science**, **machine learning**, and **data analytics**.  Currently working as a **Data Analyst Intern at Techscooper** .
 
 ---
 
@@ -114,9 +113,15 @@ Currently working as a **Data Analyst Intern at Techscooper** .
 
 ---
 
+
 ## 🤝 Connect with Me
 <a href="www.linkedin.com/in/farhana-akter-suci-44844925b" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Farhana%20Akter%20Suci-blue?style=flat&logo=linkedin" alt="LinkedIn Badge"/>
 </a>
+&nbsp;
+<a href="mailto:farhanaaktersuci@gmail.com">
+  <img src="https://img.shields.io/badge/Email-farhanaaktersuci%40gmail.com-red?style=flat&logo=gmail" alt="Email Badge"/>
+</a>
+
 
 
