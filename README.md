@@ -1,7 +1,7 @@
 
 
 ### 👋 Hello, I'm Farhana Akter Suci  
-Python | SQL | Machine Learning & Bio-informatics Researcher |  Power BI | AI in Biology  **
+Python | SQL | Machine Learning & Bio-informatics Researcher |  Power BI | AI in Biology  
 
 Driven by curiosity and a passion for data-driven solutions, I combine analytical thinking and creativity to solve real-world challenges in **data science**, **machine learning**, and **business intelligence**.  
 Currently working as a **Data Analyst Intern at Techscooper** .
@@ -18,6 +18,9 @@ Currently working as a **Data Analyst Intern at Techscooper** .
 - 📌 Always learning & growing!
 
 
+## 🌐 Portfolio
+Browse my complete data portfolio:  
+[**View My Portfolio**](https://farhanasuci.github.io/)
 
 
 ---
@@ -50,9 +53,9 @@ Currently working as a **Data Analyst Intern at Techscooper** .
 |------------|-------------|------|
 | **Breast Cancer InsightX: AI-Powered Diagnostic Analysis** | A machine learning-based breast cancer diagnostic framework for early and accurate tumor classification using non-invasive FNA features. It leverages ensemble classifiers  with hyperparameter tuning, optimized feature selection, and dimensionality reduction techniques, combined with SHAP-based interpretability for reliable and explainable clinical decision support. | [View Repo](https://github.com/FarhanaSuci/BreastCancerProject) |
 | **Smart Water Quality Monitoring System** | Designed an Arduino-based system to monitor water quality parameters (pH, TDS, temperature, EC) and display results on an LCD, with LED indicators showing water quality status (green for good, red for poor). | [View Repo](https://github.com/FarhanaSuci/SmartWaterQualityMonitoringSystem) |
-| **My Reminder** | “My Reminder  App” is a multifunctional Android app with modules for task reminders, to-do lists, notepad, stopwatch, expense tracking, and location-based reminders(travelling speed,distance). | [View Repo](https://github.com/FarhanaSuci/AndroidApp-MyReminder) |
+| **My Reminder** | Developed a comprehensive Android reminder app that allows users to create, manage, and track tasks efficiently. The app features location-based reminders, which trigger notifications when users enter or leave specified locations, ensuring timely task execution. Additionally, it includes time-based reminders, recurring tasks, priority tagging, customizable notifications, and an intuitive user interface for seamless task management. | [View Repo](https://github.com/FarhanaSuci/AndroidApp-MyReminder) |
 | **Under Water Image Enhancement** | Underwater Image Enhancement Web App – Developed a Streamlit-based web application to enhance underwater images using classical image processing techniques such as red-blue channel compensation, Gray World white balancing, histogram equalization, unsharp masking, and PCA-based fusion to restore color balance and improve visibility. | [View Repo](https://github.com/FarhanaSuci/UnderWaterImageEnhancement) |
-| **JnU Women's Hall** | JnU Women’s Hall  – Built a system to manage student accommodation, complaints, administrative workflows and leave requests with multi-role access(Students, House Tutors, Provost, IT Operators) , improving efficiency, and reducing paperwork. | [View Repo](https://github.com/FarhanaSuci/JnUWomen-sHall) |
+| **JnU Women's Hall** | JnU Women’s Hall  – Built a system to manage student accommodation, complaints, administrative workflows and leave requests with multi-role access(Students, House Tutors, Provost, IT Operators) , improving efficiency and reducing paperwork. | [View Repo](https://github.com/FarhanaSuci/JnUWomen-sHall) |
 | **Spam Prediction** | Built a Python & Streamlit app to classify messages as spam or not spam using NLP and machine learning, enabling real-time prediction with high accuracy. | [View Repo](https://github.com/FarhanaSuci/SpamPrediction) |
 | **SnapEnhance-AI-Powered-Image-Processing-with-CI-CD** | AI-Powered Image Processing Pipeline with CI/CD - Developed a cloud-hosted web application for real-time AI-based image processing (e.g., grayscale, edge detection, background removal) with a user-friendly React frontend and Flask backend. Implemented Docker containerization and automated CI/CD pipelines using GitHub Actions for seamless deployment on Railway (backend) and Vercel (frontend). The project demonstrates expertise in AI, cloud computing, DevOps, and scalable web development. | [View Repo](https://github.com/FarhanaSuci/SnapEnhance-AI-Powered-Image-Processing-with-CI-CD) |
 
