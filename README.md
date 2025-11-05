@@ -105,17 +105,18 @@ Currently working as a **Data Analyst Intern at Techscooper** .
 
 | Certificate / Program | Issuer / Platform | Link |
 |----------------------|-----------------|------|
-| Data Solution 360 Program | DataSolution360 | [Certificate of Completion](#) / [Intern Promotion](#) |
-| Data Science Certificate Program | Ostad | [Certificate of Assessment](#) / [Certificate of Completion](#) |
-| Data Science and Machine Learning Program | NACTAR | [Certificate of Completion](#) |
-| Machine Learning & Deep Learning Projects | Self / Online Projects | [View Projects](#) |
-| DataXcelerate: Embarking on A Journey through the Universe of Data | YSSE | [Certificate](#) |
-| Research Program on ML, DL, Image Processing & NLP | Self / Research | [Certificate of Completion](#) |
+| Data Solution 360 Program | DataSolution360 | [Certificate of Completion](https://drive.google.com/file/d/1vPnnnlAg4upU8E0P7WyF0QIjkEwQj3eE/view?usp=sharing) / [Intern Promotion](https://drive.google.com/file/d/1IAMwDiF_qf9CKKnByJaL41LzyM3qRYNE/view?usp=sharing) |
+| Data Science Certificate Program | Ostad | [Certificate of Assessment](https://drive.google.com/file/d/1UG0nQIvRNj5Kz5PEJx7C2dnwi9plyqaN/view?usp=sharing) / [Certificate of Completion](https://drive.google.com/file/d/1lSew7RUNuvm9LCjVG999Bzq9g86CZmGw/view?usp=sharing) |
+| Data Science and Machine Learning Program | NACTAR | [Certificate of Completion](https://drive.google.com/file/d/1PkTojDH8urxm9anEvvxy3sq18mDzCxda/view?usp=sharing) |
+| DataXcelerate: Embarking on A Journey through the Universe of Data | YSSE | [Certificate](https://drive.google.com/file/d/1gycwqS4nyI6jbXONRU49tkMyjdWlvmNZ/view?usp=sharing) |
+| Research Program on ML, DL, Image Processing & NLP | Self / Research | [Certificate of Completion](https://drive.google.com/file/d/1Nw8sqdRtYQVi78NGNPWO2oOwHDNlUui2/view?usp=sharing) |
 
 
 ---
 
+## 🤝 Connect with Me
+<a href="https://www.linkedin.com/in/farhana-aktersuci/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Farhana%20Akter%20Suci-blue?style=flat&logo=linkedin" alt="LinkedIn Badge"/>
+</a>
 
 
-
-⭐ **“Keep learning, keep growing — curiosity is the first step to innovation.”**
