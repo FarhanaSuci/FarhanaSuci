@@ -115,7 +115,7 @@ Driven by curiosity and a passion for data-driven solutions, I combine analytica
 
 
 ## 🤝 Connect with Me
-<a href="www.linkedin.com/in/farhana-akter-suci-44844925b" target="_blank">
+<a href="www.linkedin.com/in/farhana-akter-suci-44844925b">
   <img src="https://img.shields.io/badge/LinkedIn-Farhana%20Akter%20Suci-blue?style=flat&logo=linkedin" alt="LinkedIn Badge"/>
 </a>
 &nbsp;
