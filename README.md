@@ -119,7 +119,7 @@ Driven by curiosity and a passion for data-driven solutions, I combine analytica
   <img src="https://img.shields.io/badge/LinkedIn-Farhana%20Akter%20Suci-blue?style=flat&logo=linkedin" alt="LinkedIn Badge"/>
 </a>
 
-&nbsp;
+
 <a href="mailto:farhanaaktersuci@gmail.com">
   <img src="https://img.shields.io/badge/Email-farhanaaktersuci%40gmail.com-red?style=flat&logo=gmail" alt="Email Badge"/>
 </a>
