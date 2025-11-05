@@ -24,6 +24,10 @@ Driven by curiosity and a passion for data-driven solutions, I combine analytica
 ## 🌐 Portfolio Link
 <a href="https://farhanasuci.github.io/" target="_blank"><b> View My Portfolio</b></a>
 
+<a href="https://farhanasuci.github.io/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-black?style=flat&logo=github" alt="Portfolio Badge"/>
+</a>
+
 
 ---
 ## 📚 Education
