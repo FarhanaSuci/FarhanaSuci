@@ -23,7 +23,7 @@ Currently working as a **Data Analyst Intern at Techscooper** .
 
 
 ## 🌐 Portfolio Link
-<a href="https://farhanasuci.github.io/" target="_blank"><b>🌐 View My Portfolio</b></a>
+<a href="https://farhanasuci.github.io/" target="_blank"><b> View My Portfolio</b></a>
 
 
 ---
