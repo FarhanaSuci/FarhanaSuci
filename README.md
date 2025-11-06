@@ -8,13 +8,13 @@ Driven by curiosity and a passion for data-driven solutions, I combine analytica
 ---
 
 ###  About Me
-- 💡 Experienced in **Python, SQL, Power BI, Streamlit, Machine Learning and Deep Learning**
-- 📊 BI Tools: **Power BI, Excel, Tableau**
-- 🧬 Research Area: **ML, Feature Selection, Colon Cancer Gene Expression & Diagnostic Biomarkers**
-- 🛠 Proficient in Tools : **VS Code,PyCharm, Google Colab, MySQL, PostgreSQL, MS SQL, XAMPP, Microsoft Fabrics, Git, GitHub**
-- 🎓 Master's student in Computer Science and Engineering at Jagannath University, Dhaka
-- 🎯 Passionate about **Data Science & AI applications**
-- 📌 Always learning & growing!
+-  Experienced in **Python, SQL, Power BI, Streamlit, Machine Learning and Deep Learning**
+-  BI Tools: **Power BI, Excel, Tableau**
+-  Research Area: **ML, Feature Selection, Colon Cancer Gene Expression & Diagnostic Biomarkers**
+-  Proficient in Tools : **VS Code,PyCharm, Google Colab, MySQL, PostgreSQL, MS SQL, XAMPP, Microsoft Fabrics, Git, GitHub**
+-  Master's student in Computer Science and Engineering at Jagannath University, Dhaka
+-  Passionate about **Data Science & AI applications**
+-  Always learning & growing!
 
 
 
@@ -70,24 +70,24 @@ Driven by curiosity and a passion for data-driven solutions, I combine analytica
 
 | Course / Repository | Description | GitHub Link |
 |----------------------|-------------|--------------|
-| 🤖 **Introduction to Machine Learning** | A dynamic repository showcasing practical Machine Learning and Deep Learning  projects, featuring cutting-edge techniques, model training, and hyperparameter optimization for impactful insights. | [View Repo](https://github.com/FarhanaSuci/DeepLearningLab) |
-| 📊 **Data Science** | A collection of data analysis, visualization, and machine learning projects using Python, Pandas, NumPy, Matplotlib, and Scikit-learn. Includes real-world datasets and hands-on experiments for data-driven insights. | [View Repo](https://github.com/FarhanaSuci/MLPart2) |
-| 🔐 **Cryptography and Information Security** | Covers classical and modern encryption algorithms and cryptographic techniques for secure data transmission. | [View Repo](https://github.com/FarhanaSuci/CryptographyLab) |
-| 🧠 **Artificial Intelligence** | Features basic neural network implementations (e.g., logical gates, prediction models) and Prolog logic programming examples. | [View Repo](https://github.com/FarhanaSuci/NeuralNetworks) |
-| 🎨 **Computer Graphics and Animation** | Contains code and resources for computer graphics and animation labs in C++ and Python. Perfect for learning graphics fundamentals. | [View Repo](https://github.com/FarhanaSuci/GraphicsLab) |
-| 🎧 **Digital Signal Processing** | Practical exercises and code for learning and working on DSP — beginner-friendly and hands-on. | [View Repo](https://github.com/FarhanaSuci/Digital-Signal-Processing-Lab) |
-| 🧩 **Compiler Design and Construction** | Code solutions for compiler tasks like reading words, counting lines, and grammar understanding using Lex and C/C++. | [View Repo](https://github.com/FarhanaSuci/Compiler-Design-and-Construction-Lab) |
-| 💻 **Operating Systems** | UNIX/Ubuntu shell scripting and OS-related basic command exercises. | [View Repo](https://github.com/FarhanaSuci/Operating-Systems-Lab) |
-| ⚙️ **Microprocessor Basics** | Microprocessor assembly codes for lab exercises and instruction-level programming. | [View Repo](https://github.com/FarhanaSuci/Microprocessor-Basics) |
-| 🏗️ **Computer Architecture** | MIPS code examples from Computer Architecture coursework. | [View Repo](https://github.com/FarhanaSuci/Computer-Architecture-MIPS-Code) |
-| 🗃️ **Basic Database** | MySQL database-related commands and exercises. | [View Repo](https://github.com/FarhanaSuci/Basic-Database-Lab) |
-| 📐 **Numerical Analysis** | Implementation of numerical analysis methods and formulae using Python. | [View Repo](https://github.com/FarhanaSuci/Numerical-Analysis) |
-| ⚡ **Basic Algorithm** | Programs based on fundamental algorithms for practice and learning. | [View Repo](https://github.com/FarhanaSuci/Basic-Database-Lab) |
-| 🔢 **Digital Logic Design** | Digital Logic Design (.circ) files runnable in Logisim software. | [View Repo](https://github.com/FarhanaSuci/Digital-Logic-Design-Lab) |
-| ☕ **Object Oriented Programming (Java)** | Java-based OOP programs and concept demonstrations. | [View Repo](https://github.com/FarhanaSuci/Object-Oriented-Programing-JAVA) |
-| 🧮 **Object Oriented Programming (C++)** | C++-based OOP programs and concept demonstrations. | [View Repo](https://github.com/FarhanaSuci/Object-Oriented-Programming-C-Plus-Plus) |
-| 🧱 **Data Structure** | Data structure implementations and code examples. | [View Repo](https://github.com/FarhanaSuci/Data-Structure-Lab) |
-| 💡 **Simple C and C++ Program** | Basic C and C++ programming examples for beginners. | [View Repo](https://github.com/FarhanaSuci/Simple-C-and-C-plus-plus-Program) |
+|  **Introduction to Machine Learning** | A dynamic repository showcasing practical Machine Learning and Deep Learning  projects, featuring cutting-edge techniques, model training, and hyperparameter optimization for impactful insights. | [View Repo](https://github.com/FarhanaSuci/DeepLearningLab) |
+|  **Data Science** | A collection of data analysis, visualization, and machine learning projects using Python, Pandas, NumPy, Matplotlib, and Scikit-learn. Includes real-world datasets and hands-on experiments for data-driven insights. | [View Repo](https://github.com/FarhanaSuci/MLPart2) |
+|  **Cryptography and Information Security** | Covers classical and modern encryption algorithms and cryptographic techniques for secure data transmission. | [View Repo](https://github.com/FarhanaSuci/CryptographyLab) |
+|  **Artificial Intelligence** | Features basic neural network implementations (e.g., logical gates, prediction models) and Prolog logic programming examples. | [View Repo](https://github.com/FarhanaSuci/NeuralNetworks) |
+|  **Computer Graphics and Animation** | Contains code and resources for computer graphics and animation labs in C++ and Python. Perfect for learning graphics fundamentals. | [View Repo](https://github.com/FarhanaSuci/GraphicsLab) |
+|  **Digital Signal Processing** | Practical exercises and code for learning and working on DSP — beginner-friendly and hands-on. | [View Repo](https://github.com/FarhanaSuci/Digital-Signal-Processing-Lab) |
+|  **Compiler Design and Construction** | Code solutions for compiler tasks like reading words, counting lines, and grammar understanding using Lex and C/C++. | [View Repo](https://github.com/FarhanaSuci/Compiler-Design-and-Construction-Lab) |
+|  **Operating Systems** | UNIX/Ubuntu shell scripting and OS-related basic command exercises. | [View Repo](https://github.com/FarhanaSuci/Operating-Systems-Lab) |
+|  **Microprocessor Basics** | Microprocessor assembly codes for lab exercises and instruction-level programming. | [View Repo](https://github.com/FarhanaSuci/Microprocessor-Basics) |
+|  **Computer Architecture** | MIPS code examples from Computer Architecture coursework. | [View Repo](https://github.com/FarhanaSuci/Computer-Architecture-MIPS-Code) |
+|  **Basic Database** | MySQL database-related commands and exercises. | [View Repo](https://github.com/FarhanaSuci/Basic-Database-Lab) |
+|  **Numerical Analysis** | Implementation of numerical analysis methods and formulae using Python. | [View Repo](https://github.com/FarhanaSuci/Numerical-Analysis) |
+|  **Basic Algorithm** | Programs based on fundamental algorithms for practice and learning. | [View Repo](https://github.com/FarhanaSuci/Basic-Database-Lab) |
+|  **Digital Logic Design** | Digital Logic Design (.circ) files runnable in Logisim software. | [View Repo](https://github.com/FarhanaSuci/Digital-Logic-Design-Lab) |
+|  **Object Oriented Programming (Java)** | Java-based OOP programs and concept demonstrations. | [View Repo](https://github.com/FarhanaSuci/Object-Oriented-Programing-JAVA) |
+|  **Object Oriented Programming (C++)** | C++-based OOP programs and concept demonstrations. | [View Repo](https://github.com/FarhanaSuci/Object-Oriented-Programming-C-Plus-Plus) |
+|  **Data Structure** | Data structure implementations and code examples. | [View Repo](https://github.com/FarhanaSuci/Data-Structure-Lab) |
+|  **Simple C and C++ Program** | Basic C and C++ programming examples for beginners. | [View Repo](https://github.com/FarhanaSuci/Simple-C-and-C-plus-plus-Program) |
 
 
 
