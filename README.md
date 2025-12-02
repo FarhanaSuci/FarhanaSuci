@@ -30,7 +30,6 @@ Driven by curiosity and a passion for data-driven solutions, I combine analytica
 ---
 
 
-## 📚 Education
 
 ## 📚 Education
 
