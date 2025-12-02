@@ -47,6 +47,16 @@ Driven by curiosity and a passion for data-driven solutions, I combine analytica
 |-------|------------|------|------|
 | *Identifying Influential Biomarkers of Colorectal Cancer Using Bioinformatics and Machine Learning Approaches with Explainable AI* | Abstract published in the *Book of Abstracts* for the **3rd International Poster Competition for Young Researchers 2025** | October 2025 | [View Abstract (Page 77)](https://drive.google.com/file/d/1pLE_1_bHjY9xkMnNVdcADgn-BoksEjPE/view?usp=sharing#page=77) |
 
+## 🏅 Silver Explorer Award — 3rd International Poster Competition for Young Researchers 2025
+
+**Issued by:** UniV Bangladesh  
+**Award Level:** Silver – Explorer Category  
+**Recipients:** Farhana Akter Suci and Rifah Sajida Deya  
+**Date:** November 2025  
+
+### 📄 Description  
+Recognized for outstanding research presentation and contribution at the **3rd International Poster Competition for Young Researchers**.  
+Awarded the **Silver Explorer** certificate for excellence in scientific communication and innovation.
 
 
 ---
