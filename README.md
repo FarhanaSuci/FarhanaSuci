@@ -36,7 +36,15 @@ Driven by curiosity and a passion for data-driven solutions, I combine analytica
 | 2020 - 2025 | Bachelor of Science (B.Sc) | Computer Science and Engineering | Jagannath University | Dhaka, Bangladesh |
 | 2017 - 2019 | Higher Secondary School Certificate (HSC) | Science | Noakhali Govt. College | Noakhali, Bangladesh |
 | 2007 - 2017 | Secondary School Certificate (SSC) | Science | Noakhali Govt. Girls'High School | Noakhali, Bangladesh |
+---
+## 📚 Education
 
+| TIMELINE | DEGREE | DEPARTMENT / GROUP | INSTITUTION | LOCATION |
+|----------|--------|------------------|-------------|----------|
+| 2025 - Present | [Masters of Science (M.Sc) 🏅 Certificate](https://msc-certificate-link.com) | Computer Science and Engineering | Jagannath University | Dhaka, Bangladesh |
+| 2020 - 2025 | [Bachelor of Science (B.Sc) 🏅 Certificate](https://bsc-certificate-link.com) | Computer Science and Engineering | Jagannath University | Dhaka, Bangladesh |
+| 2017 - 2019 | [Higher Secondary School Certificate (HSC) 🏅 Certificate](https://hsc-certificate-link.com) | Science | Noakhali Govt. College | Noakhali, Bangladesh |
+| 2007 - 2017 | [Secondary School Certificate (SSC) 🏅 Certificate](https://ssc-certificate-link.com) | Science | Noakhali Govt. Girls' High School | Noakhali, Bangladesh |
 
 ---
 
