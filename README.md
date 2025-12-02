@@ -106,11 +106,11 @@ Driven by curiosity and a passion for data-driven solutions, I combine analytica
 
 | Certificate / Program | Issuer / Platform | Link |
 |----------------------|-----------------|------|
-| Data Solution 360 Program | DataSolution360 | [Certificate of Completion](https://drive.google.com/file/d/1vPnnnlAg4upU8E0P7WyF0QIjkEwQj3eE/view?usp=sharing) / [Intern Promotion](https://drive.google.com/file/d/1IAMwDiF_qf9CKKnByJaL41LzyM3qRYNE/view?usp=sharing) |
-| Data Science Certificate Program | Ostad | [Certificate of Assessment](https://drive.google.com/file/d/1UG0nQIvRNj5Kz5PEJx7C2dnwi9plyqaN/view?usp=sharing) / [Certificate of Completion](https://drive.google.com/file/d/1lSew7RUNuvm9LCjVG999Bzq9g86CZmGw/view?usp=sharing) |
-| Data Science and Machine Learning Program | NACTAR | [Certificate of Completion](https://drive.google.com/file/d/1PkTojDH8urxm9anEvvxy3sq18mDzCxda/view?usp=sharing) |
-| DataXcelerate: Embarking on A Journey through the Universe of Data | YSSE | [Certificate](https://drive.google.com/file/d/1gycwqS4nyI6jbXONRU49tkMyjdWlvmNZ/view?usp=sharing) |
-| Research Program on ML, DL, Image Processing & NLP | Neural Research | [Certificate of Completion](https://drive.google.com/file/d/1Nw8sqdRtYQVi78NGNPWO2oOwHDNlUui2/view?usp=sharing) |
+| Data Solution 360 Program | DataSolution360 | [Certificate of Completion](https://drive.google.com/file/d/1roiaf25hMAVraAKNJciy2fTUmMZhefdn/view) / [High Performance Team Promotion](https://drive.google.com/file/d/1hSkFpPP2xcaJoPjphlxV73ydXrTGoQz7/view) |
+| Data Science Certificate Program | Ostad | [Certificate of Assessment](https://drive.google.com/file/d/1SmNAWkm5rftRc8On9Xt6xuUG3BY4Je5t/view) / [Certificate of Completion](https://drive.google.com/file/d/1Ct6RWTGmxXhDdtq5K4MRrMjV1My6kjnt/view) |
+| Data Science and Machine Learning Program | NACTAR | [Certificate of Completion](https://drive.google.com/file/d/1KM9uldd-9wrXhOdp81MAvMZ4WCIZ9h57/view) |
+| DataXcelerate: Embarking on A Journey through the Universe of Data | YSSE | [Certificate](https://drive.google.com/file/d/1hghsI_O7QpVAgNL0b7ea_Ahbo1IE4nTu/view) |
+| Research Program on ML, DL, Image Processing & NLP | Neural Research | [Certificate of Completion](https://drive.google.com/file/d/1KNtismzxzx-dXTSRJjwE5YkiMk4bZbmG/view) |
 
 
 ---
