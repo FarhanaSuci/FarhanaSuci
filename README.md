@@ -28,14 +28,7 @@ Driven by curiosity and a passion for data-driven solutions, I combine analytica
 
 
 ---
-## 📚 Education
 
-| TIMELINE | DEGREE | DEPARTMENT / GROUP | INSTITUTION | LOCATION |
-|----------|--------|------------------|-------------|----------|
-| 2025 - Present | Masters of Science (M.Sc) | Computer Science and Engineering | Jagannath University | Dhaka, Bangladesh |
-| 2020 - 2025 | Bachelor of Science (B.Sc) [🏅 Certificate](https://drive.google.com/file/d/16JRYFRmagCqY4-_tB3QRiyvqJMh3YzGo/view) [📄 Transcript](https://drive.google.com/file/d/1eucFKbv_eW0iF_jZOotsOtOWZEQ0UbTa/view) | Computer Science and Engineering | Jagannath University | Dhaka, Bangladesh |
-| 2017 - 2019 | Higher Secondary School Certificate (HSC) [🏅 Certificate](https://drive.google.com/file/d/1YvSp3C3gYS0AuetJyeexQwSSVoXy10JH/view) | Science | Noakhali Govt. College | Noakhali, Bangladesh |
-| 2007 - 2017 | Secondary School Certificate (SSC) [🏅 Certificate](https://drive.google.com/file/d/1JfxkVIQUDqMvl-SUNqICxemtQ4ybrEc3/view) | Science | Noakhali Govt. Girls' High School | Noakhali, Bangladesh |
 
 ## 📚 Education
 
@@ -66,7 +59,7 @@ Driven by curiosity and a passion for data-driven solutions, I combine analytica
 Recognized for outstanding research presentation and contribution at the **3rd International Poster Competition for Young Researchers**.  
 Awarded the **Silver Explorer** certificate for excellence in scientific communication and innovation.  
 
-#### 🔗 Certificate  
+#### 🔗Award  
 [View Certificate](https://drive.google.com/file/d/1CP5XFwNmYmMZFdRMpDI2G1JpqgqNXmwq/view)
 
 
