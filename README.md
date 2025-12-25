@@ -111,13 +111,6 @@ Awarded the **Silver Explorer** certificate for excellence in scientific communi
 ---
 
 
-### 💼 Experiences
-
-| Timeline | Position | Company | Location |
-|-----------|-----------|----------|-----------|
-| April 2025 – Nov 2025 | **Data Visualization Intern** | TechScooper Private Limited | India |
-
-**Internship Certificate:** [View Certificate](https://drive.google.com/file/d/1p_JZdtnGGeXBvetJoRKEXslA7-44M-wa/view?usp=sharing) – Completed multiple **data visualization projects** using **Tableau** and **Power BI**, demonstrating strong **data analysis skills** and completing all projects **successfully on time**.
 
 ## 🏅 Data Science & Research Certificates
 
@@ -132,6 +125,19 @@ Awarded the **Silver Explorer** certificate for excellence in scientific communi
 
 ---
 
+
+
+
+### 💼 Experiences
+
+| Timeline | Position | Company | Location |
+|-----------|-----------|----------|-----------|
+| April 2025 – Nov 2025 | **Data Visualization Intern** | TechScooper Private Limited | India |
+
+**Internship Certificate:** [View Certificate](https://drive.google.com/file/d/1p_JZdtnGGeXBvetJoRKEXslA7-44M-wa/view?usp=sharing) – Completed multiple **data visualization projects** using **Tableau** and **Power BI**, demonstrating strong **data analysis skills** and completing all projects **successfully on time**.
+
+
+---
 
 ## 🤝 Connect with Me
 <a href="https://www.linkedin.com/in/farhana-akter-suci-44844925b/" target="_blank" rel="noopener noreferrer">
